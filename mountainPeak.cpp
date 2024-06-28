@@ -22,7 +22,7 @@ int binarySearch(int array[])
 
 int main()
 {
-    int array[]={1,2,3,5,6,4,3,2};
+    int array[]={1,2,3,5,6,4,3,2,0};
     cout<<binarySearch(array);
     return 0;
 }
